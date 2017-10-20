@@ -1,0 +1,95 @@
+nav {
+    position: fixed;
+    top: 0;
+    margin-top: 64px;
+    width: 100vw;
+    background: #CFD8DC;
+  }
+  
+  .banner {
+    height: calc(100vh - 64px);
+    width: 100%;
+    min-height: 350px;
+    text-align: center;
+    background: #5C6BC0;
+  }
+  
+  .banner-content {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    z-index: 10;
+  }
+
+  .banner-content > h1 {
+    color: #ECEFF1;
+    font-size: 42pt;
+    margin-top: 0px;
+    padding-top: calc(10vh + 64px);
+  }
+  
+  .banner-content > p {
+    color: #ECEFF1;
+    font-size: 14pt;
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+  
+  .banner-content > p > span {
+    color: #B0BEC5;
+  }
+  
+  .banner-content > Button {
+    color: #C5CAE9;
+    margin-top: 10vh;
+  }
+  
+  .home-main {
+    color: #37474F;
+    min-height: calc(100vh - 64px);
+    width: 100vw;
+    padding-top: 64px;
+  }
+  
+  .section {
+    margin-left: 2rem;
+    margin-right: 2rem;
+    margin-bottom: 5rem;
+  }
+  
+  #about, #team > p {
+    max-width: 900px;
+  }
+  
+  #about > p > a {
+    text-decoration: none;
+    color: #009688;
+    line-height: 16pt;
+    border-bottom: 1px dotted #009688;
+  }
+  
+  #announcements > p > a {
+    text-decoration: none;
+    color: #536DFE;
+  }
+  
+  #announcements > p > ul > li > a {
+    text-decoration: none;
+    color: #009688;
+  }
+  
+  #cards-container {
+    max-width: 1476px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .spacer {
+    height: 5rem;
+  }
+
+  .more {
+    border: none;
+  }

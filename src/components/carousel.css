@@ -1,0 +1,27 @@
+@import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css";
+
+.Carousel {
+  width: 100vw;
+  position: absolute;
+  z-index: 0;
+}
+
+.slide {
+  width: 100vw;
+  min-height: 300px;
+  height: 80vh;
+  background-color: #5C6BC0;
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.slide > img {
+  position: relative;
+  opacity: 0.25;
+  max-height: auto;
+  max-width: auto;
+  filter: blur(3px);
+}
