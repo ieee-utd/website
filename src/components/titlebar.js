@@ -32,7 +32,7 @@ function ButtonAppBar(props) {
           {/* <IconButton className={classes.menuButton} color="contrast" aria-label="Menu">
             <MenuIcon />
           </IconButton> */}
-          <img src="https://www.ieeeutd.org/logo.png" alt="logo" className={classes.menuButton}/>
+          <img src="/logo.png" alt="logo" className={classes.menuButton}/>
           <Typography type="title" color="inherit">
             <Link to="/" style={{textDecoration:'none', border:'none', color:'white', marginRight:'30px'}}>IEEE UTD</Link>
           </Typography>
