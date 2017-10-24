@@ -27,6 +27,10 @@ class TableMd extends React.Component {
         simpleSheet: true } )
     }
 
+    componentWillUnmount() {
+      markdown = '';
+    }
+
     render() {
       if (this.state.loading) { return ( 
         <div className="TableMd">
