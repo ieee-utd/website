@@ -59,3 +59,7 @@ Created with Create React App
 ([https://github.com/jsoma/tabletop](https://github.com/jsoma/tabletop))
 
 `yarn add tabletop`
+
+([https://github.com/contra/react-responsive](https://github.com/contra/react-responsive))
+
+`yarn add react-responsive`
