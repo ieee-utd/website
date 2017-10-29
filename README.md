@@ -63,3 +63,7 @@ Created with Create React App
 ([https://github.com/contra/react-responsive](https://github.com/contra/react-responsive))
 
 `yarn add react-responsive`
+
+([https://github.com/axios/axios][https://github.com/axios/axios])
+
+`yarn add axios`
