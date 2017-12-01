@@ -79,7 +79,7 @@ We provide students with an environment that allows them to socialize through IE
           <p>Follow us on <a href="https://www.facebook.com/IEEEUTD/" target="_blank" rel="noopener noreferrer">Facebook</a> for upcomming events!</p>
           <p>If you cannot access the files, try to clear your browser history or cache for this site.</p>
         </div>
-        <div id="team" className="section">
+        <div id="team" className="section" style={{marginBottom:0}}>
           <h1>Meet our Team</h1>
           <div id="cards-container">
             <Card title="Jason Waye" position="President"/>
