@@ -1,11 +1,11 @@
 .size-normal {
-  height: calc(100vh - 64px);
+  min-height: calc(100vh - 64px);
   margin-top: 64px;
   background-color: #ECEFF1;
 }
 
 .size-mobile {
-  height: calc(100vh - 56px);
+  min-height: calc(100vh - 56px);
   margin-top: 56px;
   background-color: #ECEFF1;
 }
