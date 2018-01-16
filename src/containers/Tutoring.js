@@ -17,10 +17,10 @@ class Tutoring extends React.Component {
         <h2>Tutoring Schedules</h2>
         <p>We offer tutoring for the following classes:</p>
         <ul style={{marginBottom:0}}>
-          <li><a href="https://docs.google.com/gview?embedded=true&url=https://www.ieeeutd.org/tutoring/ee-ce_2310.pdf" target="_blank" rel="noopener noreferrer">EE/CE 2310</a> <a href="/tutoring/ee-ce_2310.pdf" download>(Download)</a></li>
-          <li><a href="https://docs.google.com/gview?embedded=true&url=https://www.ieeeutd.org/tutoring/ee-ce_3301.pdf" target="_blank" rel="noopener noreferrer">EE/CE 3301</a> <a href="/tutoring/ee-ce_3301.pdf" download>(Download)</a></li>
-          <li><a href="https://docs.google.com/gview?embedded=true&url=https://www.ieeeutd.org/tutoring/ee-ce_3302.pdf" target="_blank" rel="noopener noreferrer">EE/CE 3302</a> <a href="/tutoring/ee-ce_3302.pdf" download>(Download)</a></li>
-          <li><a href="https://docs.google.com/gview?embedded=true&url=https://www.ieeeutd.org/tutoring/ee-ce_3320.pdf" target="_blank" rel="noopener noreferrer">EE/CE 3320</a> <a href="/tutoring/ee-ce_3320.pdf" download>(Download)</a></li>
+          <li><a href="https://schedulebuilder.org/?c0aumi9t" target="_blank" rel="noopener noreferrer">DS</a></li>
+          <li><a href="https://schedulebuilder.org/?vyvqu5uj" target="_blank" rel="noopener noreferrer">DC</a></li>
+          <li><a href="https://schedulebuilder.org/?mqnsvyl7" target="_blank" rel="noopener noreferrer">ENA</a></li>
+          <li><a href="https://schedulebuilder.org/?f54rk4od" target="_blank" rel="noopener noreferrer">S&amp;S</a></li>
         </ul>
       </div>
     )
